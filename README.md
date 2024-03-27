@@ -41,7 +41,7 @@ source venv/bin/activate
 
 Установка библиотек:
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Запуск
