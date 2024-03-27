@@ -43,6 +43,7 @@ pip install requirements.txt
 python main.py
 ```
 
-
+## Использование
+По умолчанию парсер собирает данные в Москве. Для смены региона на Санкт-Петербург нужно изменить значение переменной `request_headers` на `headers.headers_spb`.
 
 
